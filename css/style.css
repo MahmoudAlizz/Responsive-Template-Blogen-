@@ -1,0 +1,9 @@
+.table td{
+    vertical-align: middle;
+}
+
+@media screen and (max-width:767px){
+    .mb-resp{
+        margin-bottom:14px;
+    }
+}
